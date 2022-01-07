@@ -1,0 +1,22 @@
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Phantom Projects\PhantomDiscordSpammer\bin\Release\PhantomDiscordSpammer.exe.config
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Phantom Projects\PhantomDiscordSpammer\bin\Release\PhantomDiscordSpammer.exe
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Phantom Projects\PhantomDiscordSpammer\obj\Release\PhantomDiscordSpammer.csproj.GenerateResource.cache
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Phantom Projects\PhantomDiscordSpammer\obj\Release\PhantomDiscordSpammer.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Phantom Projects\PhantomDiscordSpammer\obj\Release\PhantomDiscordSpammer.exe
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Phantom Projects\PhantomDiscordSpammer\obj\Release\MainForm.resources
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Phantom Projects\PhantomDiscordSpammer\obj\Release\PhantomDiscordSpammer.Properties.Resources.resources
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Phantom Projects\PhantomDiscordSpammer\bin\Release\BrotliSharpLib.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Phantom Projects\PhantomDiscordSpammer\bin\Release\Bunifu.Licensing.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Phantom Projects\PhantomDiscordSpammer\bin\Release\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Phantom Projects\PhantomDiscordSpammer\bin\Release\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Phantom Projects\PhantomDiscordSpammer\bin\Release\Guna.UI.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Phantom Projects\PhantomDiscordSpammer\bin\Release\MetroSuite 2.0.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Phantom Projects\PhantomDiscordSpammer\bin\Release\Newtonsoft.Json.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Phantom Projects\PhantomDiscordSpammer\bin\Release\Siticone.UI.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Phantom Projects\PhantomDiscordSpammer\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Phantom Projects\PhantomDiscordSpammer\bin\Release\TwoCaptcha.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Phantom Projects\PhantomDiscordSpammer\bin\Release\websocket-sharp-customheaders.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Phantom Projects\PhantomDiscordSpammer\bin\Release\BrotliSharpLib.xml
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Phantom Projects\PhantomDiscordSpammer\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Phantom Projects\PhantomDiscordSpammer\obj\Release\PhantomDiscordSpammer.csproj.CopyComplete
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Phantom Projects\PhantomDiscordSpammer\obj\Release\PhantomDiscordSpammer.exe.licenses
